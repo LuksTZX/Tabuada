@@ -36,9 +36,3 @@ Digite um numero limite:
 - Métodos com retorno (`boolean ehPrimo(int n)`)
 - Teste de primalidade até a raiz quadrada (`i * i <= n`)
 - Tratamento de entrada inválida com `try/catch`
-
-## Possíveis melhorias
-
-- Listar todos os primos até o número digitado
-- Menu para repetir sem fechar o programa
-- Permitir tabuadas de números negativos ou decimais
